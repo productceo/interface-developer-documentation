@@ -7,7 +7,6 @@
 * [Resource](resource/README.md)
   * [Computer Vision](resource/computer-vision.md)
   * [Augmented Reality](resource/augmented-reality.md)
-  * [Design and Business](resource/design-and-business.md)
 * [Roadmap](roadmap.md)
 * [What Interface is NOT](what-interface-is-not.md)
 
